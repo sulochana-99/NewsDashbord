@@ -1,0 +1,10 @@
+
+body{
+    
+    background-color: black;
+} 
+.pagination {
+    display: flex;
+    justify-content: center;
+  } 
+  
